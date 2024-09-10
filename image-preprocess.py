@@ -1,5 +1,5 @@
 """
-    This file includes the preprocessing steps for image data,
+    This file includes the reading and preprocessing steps for image data,
     including:
         read data from directory
         reorientate

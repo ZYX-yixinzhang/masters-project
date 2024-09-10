@@ -1,0 +1,722 @@
+Epoch [1/100], Loss: 0.6938, Acc: 0.477, Sen: 0.582
+Accuracy of the model on the test images:  0.500, Loss: 0.7009, Sen: 0.000
+Epoch [2/100], Loss: 0.6928, Acc: 0.548, Sen: 0.500
+Accuracy of the model on the test images:  0.500, Loss: 0.6978, Sen: 0.000
+Epoch [3/100], Loss: 0.6874, Acc: 0.573, Sen: 0.854
+Accuracy of the model on the test images:  0.511, Loss: 0.6944, Sen: 0.121
+Epoch [4/100], Loss: 0.6817, Acc: 0.648, Sen: 0.557
+Accuracy of the model on the test images:  0.522, Loss: 0.6929, Sen: 0.083
+Epoch [5/100], Loss: 0.6778, Acc: 0.653, Sen: 0.697
+Accuracy of the model on the test images:  0.511, Loss: 0.6924, Sen: 0.080
+Epoch [6/100], Loss: 0.6765, Acc: 0.648, Sen: 0.779
+Accuracy of the model on the test images:  0.489, Loss: 0.6901, Sen: 0.129
+Epoch [7/100], Loss: 0.6754, Acc: 0.663, Sen: 0.786
+Accuracy of the model on the test images:  0.489, Loss: 0.6914, Sen: 0.091
+Epoch [8/100], Loss: 0.6731, Acc: 0.658, Sen: 0.600
+Accuracy of the model on the test images:  0.511, Loss: 0.6931, Sen: 0.152
+Epoch [9/100], Loss: 0.6664, Acc: 0.678, Sen: 0.769
+Accuracy of the model on the test images:  0.489, Loss: 0.6891, Sen: 0.095
+Epoch [10/100], Loss: 0.6682, Acc: 0.673, Sen: 0.743
+Accuracy of the model on the test images:  0.522, Loss: 0.6882, Sen: 0.079
+Epoch [11/100], Loss: 0.6636, Acc: 0.683, Sen: 0.786
+Accuracy of the model on the test images:  0.522, Loss: 0.6881, Sen: 0.121
+Epoch [12/100], Loss: 0.6626, Acc: 0.683, Sen: 0.714
+Accuracy of the model on the test images:  0.522, Loss: 0.6887, Sen: 0.116
+Epoch [13/100], Loss: 0.6586, Acc: 0.673, Sen: 0.734
+Accuracy of the model on the test images:  0.522, Loss: 0.6850, Sen: 0.182
+Epoch [14/100], Loss: 0.6570, Acc: 0.663, Sen: 0.697
+Accuracy of the model on the test images:  0.522, Loss: 0.6826, Sen: 0.127
+Epoch [15/100], Loss: 0.6482, Acc: 0.704, Sen: 0.714
+Accuracy of the model on the test images:  0.489, Loss: 0.6803, Sen: 0.127
+Epoch [16/100], Loss: 0.6517, Acc: 0.709, Sen: 0.736
+Accuracy of the model on the test images:  0.500, Loss: 0.6789, Sen: 0.072
+Epoch [17/100], Loss: 0.6517, Acc: 0.698, Sen: 0.639
+Accuracy of the model on the test images:  0.511, Loss: 0.6780, Sen: 0.120
+Epoch [18/100], Loss: 0.6406, Acc: 0.693, Sen: 0.734
+Accuracy of the model on the test images:  0.522, Loss: 0.6734, Sen: 0.111
+Epoch [19/100], Loss: 0.6448, Acc: 0.704, Sen: 0.717
+Accuracy of the model on the test images:  0.522, Loss: 0.6755, Sen: 0.151
+Epoch [20/100], Loss: 0.6392, Acc: 0.668, Sen: 0.653
+Accuracy of the model on the test images:  0.522, Loss: 0.6713, Sen: 0.095
+Epoch [21/100], Loss: 0.6345, Acc: 0.698, Sen: 0.725
+Accuracy of the model on the test images:  0.511, Loss: 0.6694, Sen: 0.079
+Epoch [22/100], Loss: 0.6304, Acc: 0.704, Sen: 0.711
+Accuracy of the model on the test images:  0.533, Loss: 0.6660, Sen: 0.091
+Epoch [23/100], Loss: 0.6265, Acc: 0.709, Sen: 0.747
+Accuracy of the model on the test images:  0.522, Loss: 0.6649, Sen: 0.095
+Epoch [24/100], Loss: 0.6278, Acc: 0.714, Sen: 0.764
+Accuracy of the model on the test images:  0.533, Loss: 0.6667, Sen: 0.129
+Epoch [25/100], Loss: 0.6263, Acc: 0.709, Sen: 0.767
+Accuracy of the model on the test images:  0.533, Loss: 0.6596, Sen: 0.111
+Epoch [26/100], Loss: 0.6234, Acc: 0.719, Sen: 0.736
+Accuracy of the model on the test images:  0.533, Loss: 0.6620, Sen: 0.072
+Epoch [27/100], Loss: 0.6232, Acc: 0.673, Sen: 0.608
+Accuracy of the model on the test images:  0.543, Loss: 0.6563, Sen: 0.135
+Epoch [28/100], Loss: 0.6290, Acc: 0.704, Sen: 0.723
+Accuracy of the model on the test images:  0.500, Loss: 0.6724, Sen: 0.098
+Epoch [29/100], Loss: 0.6042, Acc: 0.688, Sen: 0.727
+Accuracy of the model on the test images:  0.543, Loss: 0.6488, Sen: 0.136
+Epoch [30/100], Loss: 0.6206, Acc: 0.688, Sen: 0.745
+Accuracy of the model on the test images:  0.543, Loss: 0.6468, Sen: 0.138
+Epoch [31/100], Loss: 0.6111, Acc: 0.693, Sen: 0.619
+Accuracy of the model on the test images:  0.554, Loss: 0.6404, Sen: 0.163
+Epoch [32/100], Loss: 0.6062, Acc: 0.714, Sen: 0.654
+Accuracy of the model on the test images:  0.554, Loss: 0.6408, Sen: 0.214
+Epoch [33/100], Loss: 0.6015, Acc: 0.709, Sen: 0.709
+Accuracy of the model on the test images:  0.554, Loss: 0.6385, Sen: 0.214
+Epoch [34/100], Loss: 0.6026, Acc: 0.724, Sen: 0.726
+Accuracy of the model on the test images:  0.598, Loss: 0.6264, Sen: 0.218
+Epoch [35/100], Loss: 0.5928, Acc: 0.724, Sen: 0.754
+Accuracy of the model on the test images:  0.587, Loss: 0.6244, Sen: 0.212
+Epoch [36/100], Loss: 0.5969, Acc: 0.688, Sen: 0.730
+Accuracy of the model on the test images:  0.576, Loss: 0.6306, Sen: 0.262
+Epoch [37/100], Loss: 0.5952, Acc: 0.693, Sen: 0.701
+Accuracy of the model on the test images:  0.598, Loss: 0.6204, Sen: 0.304
+Epoch [38/100], Loss: 0.5827, Acc: 0.739, Sen: 0.754
+Accuracy of the model on the test images:  0.609, Loss: 0.6285, Sen: 0.258
+Epoch [39/100], Loss: 0.5802, Acc: 0.724, Sen: 0.684
+Accuracy of the model on the test images:  0.620, Loss: 0.6143, Sen: 0.304
+Epoch [40/100], Loss: 0.5863, Acc: 0.724, Sen: 0.732
+Accuracy of the model on the test images:  0.630, Loss: 0.6074, Sen: 0.417
+Epoch [41/100], Loss: 0.5776, Acc: 0.714, Sen: 0.711
+Accuracy of the model on the test images:  0.630, Loss: 0.6107, Sen: 0.319
+Epoch [42/100], Loss: 0.5782, Acc: 0.714, Sen: 0.759
+Accuracy of the model on the test images:  0.641, Loss: 0.6002, Sen: 0.329
+Epoch [43/100], Loss: 0.5766, Acc: 0.719, Sen: 0.733
+Accuracy of the model on the test images:  0.641, Loss: 0.5950, Sen: 0.454
+Epoch [44/100], Loss: 0.5814, Acc: 0.724, Sen: 0.742
+Accuracy of the model on the test images:  0.630, Loss: 0.6052, Sen: 0.399
+Epoch [45/100], Loss: 0.5627, Acc: 0.764, Sen: 0.776
+Accuracy of the model on the test images:  0.663, Loss: 0.5845, Sen: 0.451
+Epoch [46/100], Loss: 0.5721, Acc: 0.749, Sen: 0.709
+Accuracy of the model on the test images:  0.663, Loss: 0.5827, Sen: 0.478
+Epoch [47/100], Loss: 0.5660, Acc: 0.749, Sen: 0.725
+Accuracy of the model on the test images:  0.641, Loss: 0.5880, Sen: 0.393
+Epoch [48/100], Loss: 0.5617, Acc: 0.739, Sen: 0.757
+Accuracy of the model on the test images:  0.641, Loss: 0.5897, Sen: 0.492
+Epoch [49/100], Loss: 0.5672, Acc: 0.734, Sen: 0.688
+Accuracy of the model on the test images:  0.630, Loss: 0.5766, Sen: 0.466
+Epoch [50/100], Loss: 0.5704, Acc: 0.714, Sen: 0.737
+Accuracy of the model on the test images:  0.630, Loss: 0.5839, Sen: 0.432
+Epoch [51/100], Loss: 0.5630, Acc: 0.719, Sen: 0.754
+Accuracy of the model on the test images:  0.652, Loss: 0.5780, Sen: 0.421
+Epoch [52/100], Loss: 0.5533, Acc: 0.729, Sen: 0.663
+Accuracy of the model on the test images:  0.652, Loss: 0.5824, Sen: 0.449
+Epoch [53/100], Loss: 0.5549, Acc: 0.769, Sen: 0.704
+Accuracy of the model on the test images:  0.685, Loss: 0.5631, Sen: 0.527
+Epoch [54/100], Loss: 0.5567, Acc: 0.754, Sen: 0.719
+Accuracy of the model on the test images:  0.707, Loss: 0.5463, Sen: 0.580
+Epoch [55/100], Loss: 0.5349, Acc: 0.774, Sen: 0.764
+Accuracy of the model on the test images:  0.707, Loss: 0.5495, Sen: 0.542
+Epoch [56/100], Loss: 0.5450, Acc: 0.754, Sen: 0.784
+Accuracy of the model on the test images:  0.717, Loss: 0.5372, Sen: 0.630
+Epoch [57/100], Loss: 0.5453, Acc: 0.754, Sen: 0.684
+Accuracy of the model on the test images:  0.717, Loss: 0.5421, Sen: 0.591
+Epoch [58/100], Loss: 0.5469, Acc: 0.754, Sen: 0.686
+Accuracy of the model on the test images:  0.717, Loss: 0.5370, Sen: 0.644
+Epoch [59/100], Loss: 0.5330, Acc: 0.764, Sen: 0.723
+Accuracy of the model on the test images:  0.717, Loss: 0.5437, Sen: 0.587
+Epoch [60/100], Loss: 0.5467, Acc: 0.764, Sen: 0.759
+Accuracy of the model on the test images:  0.717, Loss: 0.5405, Sen: 0.667
+Epoch [61/100], Loss: 0.5416, Acc: 0.749, Sen: 0.738
+Accuracy of the model on the test images:  0.728, Loss: 0.5336, Sen: 0.670
+Epoch [62/100], Loss: 0.5285, Acc: 0.769, Sen: 0.707
+Accuracy of the model on the test images:  0.728, Loss: 0.5245, Sen: 0.697
+Epoch [63/100], Loss: 0.5346, Acc: 0.784, Sen: 0.775
+Accuracy of the model on the test images:  0.717, Loss: 0.5315, Sen: 0.670
+Epoch [64/100], Loss: 0.5312, Acc: 0.764, Sen: 0.764
+Accuracy of the model on the test images:  0.717, Loss: 0.5303, Sen: 0.583
+Epoch [65/100], Loss: 0.5303, Acc: 0.749, Sen: 0.695
+Accuracy of the model on the test images:  0.728, Loss: 0.5215, Sen: 0.773
+Epoch [66/100], Loss: 0.5295, Acc: 0.769, Sen: 0.747
+Accuracy of the model on the test images:  0.750, Loss: 0.5145, Sen: 0.765
+Epoch [67/100], Loss: 0.5351, Acc: 0.739, Sen: 0.699
+Accuracy of the model on the test images:  0.717, Loss: 0.5168, Sen: 0.694
+Epoch [68/100], Loss: 0.5357, Acc: 0.744, Sen: 0.745
+Accuracy of the model on the test images:  0.728, Loss: 0.5226, Sen: 0.619
+Epoch [69/100], Loss: 0.5254, Acc: 0.734, Sen: 0.655
+Accuracy of the model on the test images:  0.717, Loss: 0.5122, Sen: 0.544
+Epoch [70/100], Loss: 0.5246, Acc: 0.749, Sen: 0.716
+Accuracy of the model on the test images:  0.783, Loss: 0.4980, Sen: 0.825
+Epoch [71/100], Loss: 0.5126, Acc: 0.764, Sen: 0.717
+Accuracy of the model on the test images:  0.761, Loss: 0.5141, Sen: 0.813
+Epoch [72/100], Loss: 0.5114, Acc: 0.764, Sen: 0.707
+Accuracy of the model on the test images:  0.772, Loss: 0.4971, Sen: 0.829
+Epoch [73/100], Loss: 0.5276, Acc: 0.769, Sen: 0.725
+Accuracy of the model on the test images:  0.750, Loss: 0.5142, Sen: 0.750
+Epoch [74/100], Loss: 0.5266, Acc: 0.759, Sen: 0.741
+Accuracy of the model on the test images:  0.728, Loss: 0.5076, Sen: 0.708
+Epoch [75/100], Loss: 0.5206, Acc: 0.769, Sen: 0.759
+Accuracy of the model on the test images:  0.717, Loss: 0.5105, Sen: 0.678
+Epoch [76/100], Loss: 0.5301, Acc: 0.724, Sen: 0.629
+Accuracy of the model on the test images:  0.739, Loss: 0.5017, Sen: 0.716
+Epoch [77/100], Loss: 0.5102, Acc: 0.759, Sen: 0.725
+Accuracy of the model on the test images:  0.750, Loss: 0.4999, Sen: 0.690
+Epoch [78/100], Loss: 0.5164, Acc: 0.759, Sen: 0.672
+Accuracy of the model on the test images:  0.717, Loss: 0.5068, Sen: 0.652
+Epoch [79/100], Loss: 0.5233, Acc: 0.739, Sen: 0.748
+Accuracy of the model on the test images:  0.761, Loss: 0.4837, Sen: 0.782
+Epoch [80/100], Loss: 0.5101, Acc: 0.739, Sen: 0.690
+Accuracy of the model on the test images:  0.783, Loss: 0.4906, Sen: 0.865
+Epoch [81/100], Loss: 0.5176, Acc: 0.764, Sen: 0.766
+Accuracy of the model on the test images:  0.761, Loss: 0.4899, Sen: 0.776
+Epoch [82/100], Loss: 0.5114, Acc: 0.759, Sen: 0.754
+Accuracy of the model on the test images:  0.761, Loss: 0.4983, Sen: 0.730
+Epoch [83/100], Loss: 0.5154, Acc: 0.754, Sen: 0.717
+Accuracy of the model on the test images:  0.707, Loss: 0.4988, Sen: 0.614
+Epoch [84/100], Loss: 0.5061, Acc: 0.769, Sen: 0.729
+Accuracy of the model on the test images:  0.739, Loss: 0.5018, Sen: 0.732
+Epoch [85/100], Loss: 0.5022, Acc: 0.779, Sen: 0.723
+Accuracy of the model on the test images:  0.707, Loss: 0.5042, Sen: 0.591
+Epoch [86/100], Loss: 0.5040, Acc: 0.769, Sen: 0.700
+Accuracy of the model on the test images:  0.750, Loss: 0.4980, Sen: 0.780
+Epoch [87/100], Loss: 0.4990, Acc: 0.779, Sen: 0.810
+Accuracy of the model on the test images:  0.772, Loss: 0.4880, Sen: 0.739
+Epoch [88/100], Loss: 0.5125, Acc: 0.764, Sen: 0.717
+Accuracy of the model on the test images:  0.707, Loss: 0.4922, Sen: 0.623
+Epoch [89/100], Loss: 0.5040, Acc: 0.764, Sen: 0.681
+Accuracy of the model on the test images:  0.761, Loss: 0.4763, Sen: 0.736
+Epoch [90/100], Loss: 0.5075, Acc: 0.749, Sen: 0.746
+Accuracy of the model on the test images:  0.750, Loss: 0.4839, Sen: 0.725
+Epoch [91/100], Loss: 0.5051, Acc: 0.739, Sen: 0.715
+Accuracy of the model on the test images:  0.772, Loss: 0.4725, Sen: 0.807
+Epoch [92/100], Loss: 0.4938, Acc: 0.779, Sen: 0.711
+Accuracy of the model on the test images:  0.772, Loss: 0.4777, Sen: 0.786
+Epoch [93/100], Loss: 0.4956, Acc: 0.764, Sen: 0.768
+Accuracy of the model on the test images:  0.761, Loss: 0.4854, Sen: 0.707
+Epoch [94/100], Loss: 0.5114, Acc: 0.769, Sen: 0.733
+Accuracy of the model on the test images:  0.772, Loss: 0.4778, Sen: 0.783
+Epoch [95/100], Loss: 0.4978, Acc: 0.774, Sen: 0.736
+Accuracy of the model on the test images:  0.772, Loss: 0.4755, Sen: 0.802
+Epoch [96/100], Loss: 0.5003, Acc: 0.784, Sen: 0.755
+Accuracy of the model on the test images:  0.793, Loss: 0.4731, Sen: 0.841
+Epoch [97/100], Loss: 0.5047, Acc: 0.769, Sen: 0.727
+Accuracy of the model on the test images:  0.783, Loss: 0.4765, Sen: 0.845
+Epoch [98/100], Loss: 0.5028, Acc: 0.744, Sen: 0.732
+Accuracy of the model on the test images:  0.783, Loss: 0.4753, Sen: 0.750
+Epoch [99/100], Loss: 0.5025, Acc: 0.749, Sen: 0.731
+Accuracy of the model on the test images:  0.772, Loss: 0.4721, Sen: 0.808
+Epoch [100/100], Loss: 0.5084, Acc: 0.764, Sen: 0.776
+Accuracy of the model on the test images:  0.793, Loss: 0.4683, Sen: 0.861
+Epoch [1/100], Loss: 0.4993, Acc: 0.764, Sen: 0.739
+Accuracy of the model on the test images:  0.783, Loss: 0.4738, Sen: 0.833
+Epoch [2/100], Loss: 0.4846, Acc: 0.769, Sen: 0.752
+Accuracy of the model on the test images:  0.793, Loss: 0.4739, Sen: 0.833
+Epoch [3/100], Loss: 0.4933, Acc: 0.754, Sen: 0.672
+Accuracy of the model on the test images:  0.793, Loss: 0.4689, Sen: 0.841
+Epoch [4/100], Loss: 0.4933, Acc: 0.759, Sen: 0.742
+Accuracy of the model on the test images:  0.783, Loss: 0.4773, Sen: 0.841
+Epoch [5/100], Loss: 0.5084, Acc: 0.779, Sen: 0.788
+Accuracy of the model on the test images:  0.783, Loss: 0.4701, Sen: 0.860
+Epoch [6/100], Loss: 0.4976, Acc: 0.754, Sen: 0.665
+Accuracy of the model on the test images:  0.793, Loss: 0.4686, Sen: 0.849
+Epoch [7/100], Loss: 0.4889, Acc: 0.764, Sen: 0.709
+Accuracy of the model on the test images:  0.783, Loss: 0.4752, Sen: 0.855
+Epoch [8/100], Loss: 0.4835, Acc: 0.769, Sen: 0.774
+Accuracy of the model on the test images:  0.783, Loss: 0.4667, Sen: 0.829
+Epoch [9/100], Loss: 0.4814, Acc: 0.764, Sen: 0.720
+Accuracy of the model on the test images:  0.793, Loss: 0.4780, Sen: 0.853
+Epoch [10/100], Loss: 0.4846, Acc: 0.794, Sen: 0.786
+Accuracy of the model on the test images:  0.793, Loss: 0.4694, Sen: 0.826
+Epoch [11/100], Loss: 0.4829, Acc: 0.784, Sen: 0.743
+Accuracy of the model on the test images:  0.783, Loss: 0.4773, Sen: 0.808
+Epoch [12/100], Loss: 0.4877, Acc: 0.764, Sen: 0.786
+Accuracy of the model on the test images:  0.783, Loss: 0.4743, Sen: 0.833
+Epoch [13/100], Loss: 0.4914, Acc: 0.784, Sen: 0.718
+Accuracy of the model on the test images:  0.793, Loss: 0.4666, Sen: 0.858
+Epoch [14/100], Loss: 0.4760, Acc: 0.779, Sen: 0.774
+Accuracy of the model on the test images:  0.772, Loss: 0.4642, Sen: 0.735
+Epoch [15/100], Loss: 0.4898, Acc: 0.769, Sen: 0.708
+Accuracy of the model on the test images:  0.783, Loss: 0.4747, Sen: 0.795
+Epoch [16/100], Loss: 0.4761, Acc: 0.789, Sen: 0.717
+Accuracy of the model on the test images:  0.750, Loss: 0.4773, Sen: 0.765
+Epoch [17/100], Loss: 0.4793, Acc: 0.794, Sen: 0.773
+Accuracy of the model on the test images:  0.783, Loss: 0.4733, Sen: 0.822
+Epoch [18/100], Loss: 0.4856, Acc: 0.799, Sen: 0.759
+Accuracy of the model on the test images:  0.783, Loss: 0.4621, Sen: 0.848
+Epoch [19/100], Loss: 0.4851, Acc: 0.764, Sen: 0.738
+Accuracy of the model on the test images:  0.761, Loss: 0.4795, Sen: 0.794
+Epoch [20/100], Loss: 0.4981, Acc: 0.734, Sen: 0.706
+Accuracy of the model on the test images:  0.750, Loss: 0.4753, Sen: 0.754
+Epoch [21/100], Loss: 0.5019, Acc: 0.774, Sen: 0.724
+Accuracy of the model on the test images:  0.772, Loss: 0.4789, Sen: 0.792
+Epoch [22/100], Loss: 0.4925, Acc: 0.774, Sen: 0.746
+Accuracy of the model on the test images:  0.750, Loss: 0.4817, Sen: 0.733
+Epoch [23/100], Loss: 0.4948, Acc: 0.749, Sen: 0.717
+Accuracy of the model on the test images:  0.772, Loss: 0.4770, Sen: 0.806
+Epoch [24/100], Loss: 0.4745, Acc: 0.774, Sen: 0.710
+Accuracy of the model on the test images:  0.739, Loss: 0.4843, Sen: 0.694
+Epoch [25/100], Loss: 0.4763, Acc: 0.784, Sen: 0.773
+Accuracy of the model on the test images:  0.772, Loss: 0.4687, Sen: 0.783
+Epoch [26/100], Loss: 0.4784, Acc: 0.774, Sen: 0.706
+Accuracy of the model on the test images:  0.750, Loss: 0.4832, Sen: 0.777
+Epoch [27/100], Loss: 0.4784, Acc: 0.769, Sen: 0.752
+Accuracy of the model on the test images:  0.761, Loss: 0.4729, Sen: 0.772
+Epoch [28/100], Loss: 0.4755, Acc: 0.759, Sen: 0.710
+Accuracy of the model on the test images:  0.783, Loss: 0.4747, Sen: 0.856
+Epoch [29/100], Loss: 0.4841, Acc: 0.764, Sen: 0.756
+Accuracy of the model on the test images:  0.761, Loss: 0.4757, Sen: 0.778
+Epoch [30/100], Loss: 0.4810, Acc: 0.779, Sen: 0.759
+Accuracy of the model on the test images:  0.783, Loss: 0.4811, Sen: 0.830
+Epoch [31/100], Loss: 0.4654, Acc: 0.789, Sen: 0.817
+Accuracy of the model on the test images:  0.783, Loss: 0.4778, Sen: 0.826
+Epoch [32/100], Loss: 0.4871, Acc: 0.759, Sen: 0.729
+Accuracy of the model on the test images:  0.750, Loss: 0.4763, Sen: 0.725
+Epoch [33/100], Loss: 0.4742, Acc: 0.764, Sen: 0.753
+Accuracy of the model on the test images:  0.750, Loss: 0.4768, Sen: 0.788
+Epoch [34/100], Loss: 0.4626, Acc: 0.799, Sen: 0.803
+Accuracy of the model on the test images:  0.761, Loss: 0.4773, Sen: 0.769
+Epoch [35/100], Loss: 0.4820, Acc: 0.754, Sen: 0.708
+Accuracy of the model on the test images:  0.761, Loss: 0.4906, Sen: 0.786
+Epoch [36/100], Loss: 0.4745, Acc: 0.769, Sen: 0.670
+Accuracy of the model on the test images:  0.728, Loss: 0.4924, Sen: 0.603
+Epoch [37/100], Loss: 0.4711, Acc: 0.769, Sen: 0.763
+Accuracy of the model on the test images:  0.717, Loss: 0.4755, Sen: 0.714
+Epoch [38/100], Loss: 0.4549, Acc: 0.774, Sen: 0.717
+Accuracy of the model on the test images:  0.793, Loss: 0.4706, Sen: 0.859
+Epoch [39/100], Loss: 0.4781, Acc: 0.774, Sen: 0.761
+Accuracy of the model on the test images:  0.761, Loss: 0.4769, Sen: 0.775
+Epoch [40/100], Loss: 0.4679, Acc: 0.769, Sen: 0.697
+Accuracy of the model on the test images:  0.783, Loss: 0.4885, Sen: 0.855
+Epoch [41/100], Loss: 0.4611, Acc: 0.794, Sen: 0.807
+Accuracy of the model on the test images:  0.750, Loss: 0.4608, Sen: 0.758
+Epoch [42/100], Loss: 0.4755, Acc: 0.749, Sen: 0.661
+Accuracy of the model on the test images:  0.739, Loss: 0.4730, Sen: 0.750
+Epoch [43/100], Loss: 0.4504, Acc: 0.789, Sen: 0.764
+Accuracy of the model on the test images:  0.793, Loss: 0.4615, Sen: 0.829
+Epoch [44/100], Loss: 0.4631, Acc: 0.764, Sen: 0.684
+Accuracy of the model on the test images:  0.804, Loss: 0.4641, Sen: 0.884
+Epoch [45/100], Loss: 0.4707, Acc: 0.769, Sen: 0.692
+Accuracy of the model on the test images:  0.804, Loss: 0.4576, Sen: 0.889
+Epoch [46/100], Loss: 0.4770, Acc: 0.764, Sen: 0.764
+Accuracy of the model on the test images:  0.793, Loss: 0.4669, Sen: 0.865
+Epoch [47/100], Loss: 0.4721, Acc: 0.784, Sen: 0.750
+Accuracy of the model on the test images:  0.804, Loss: 0.4605, Sen: 0.818
+Epoch [48/100], Loss: 0.4697, Acc: 0.759, Sen: 0.716
+Accuracy of the model on the test images:  0.793, Loss: 0.4692, Sen: 0.825
+Epoch [49/100], Loss: 0.4659, Acc: 0.769, Sen: 0.798
+Accuracy of the model on the test images:  0.804, Loss: 0.4590, Sen: 0.818
+Epoch [50/100], Loss: 0.4706, Acc: 0.774, Sen: 0.735
+Accuracy of the model on the test images:  0.772, Loss: 0.4737, Sen: 0.826
+Epoch [51/100], Loss: 0.4727, Acc: 0.774, Sen: 0.761
+Accuracy of the model on the test images:  0.804, Loss: 0.4582, Sen: 0.850
+Epoch [52/100], Loss: 0.4602, Acc: 0.769, Sen: 0.732
+Accuracy of the model on the test images:  0.815, Loss: 0.4567, Sen: 0.821
+Epoch [53/100], Loss: 0.4476, Acc: 0.794, Sen: 0.754
+Accuracy of the model on the test images:  0.783, Loss: 0.4639, Sen: 0.795
+Epoch [54/100], Loss: 0.4873, Acc: 0.769, Sen: 0.734
+Accuracy of the model on the test images:  0.783, Loss: 0.4590, Sen: 0.783
+Epoch [55/100], Loss: 0.4662, Acc: 0.784, Sen: 0.741
+Accuracy of the model on the test images:  0.783, Loss: 0.4517, Sen: 0.837
+Epoch [56/100], Loss: 0.4731, Acc: 0.779, Sen: 0.733
+Accuracy of the model on the test images:  0.793, Loss: 0.4565, Sen: 0.860
+Epoch [57/100], Loss: 0.4657, Acc: 0.789, Sen: 0.745
+Accuracy of the model on the test images:  0.793, Loss: 0.4513, Sen: 0.807
+Epoch [58/100], Loss: 0.4659, Acc: 0.779, Sen: 0.755
+Accuracy of the model on the test images:  0.804, Loss: 0.4608, Sen: 0.855
+Epoch [59/100], Loss: 0.4562, Acc: 0.769, Sen: 0.743
+Accuracy of the model on the test images:  0.815, Loss: 0.4708, Sen: 0.849
+Epoch [60/100], Loss: 0.4431, Acc: 0.794, Sen: 0.805
+Accuracy of the model on the test images:  0.793, Loss: 0.4640, Sen: 0.875
+Epoch [61/100], Loss: 0.4454, Acc: 0.829, Sen: 0.719
+Accuracy of the model on the test images:  0.804, Loss: 0.4625, Sen: 0.855
+Epoch [62/100], Loss: 0.4679, Acc: 0.784, Sen: 0.745
+Accuracy of the model on the test images:  0.804, Loss: 0.4615, Sen: 0.838
+Epoch [63/100], Loss: 0.4577, Acc: 0.794, Sen: 0.784
+Accuracy of the model on the test images:  0.793, Loss: 0.4625, Sen: 0.822
+Epoch [64/100], Loss: 0.4510, Acc: 0.784, Sen: 0.729
+Accuracy of the model on the test images:  0.815, Loss: 0.4625, Sen: 0.865
+Epoch [65/100], Loss: 0.4579, Acc: 0.799, Sen: 0.766
+Accuracy of the model on the test images:  0.815, Loss: 0.4589, Sen: 0.856
+Epoch [66/100], Loss: 0.4647, Acc: 0.774, Sen: 0.727
+Accuracy of the model on the test images:  0.815, Loss: 0.4697, Sen: 0.851
+Epoch [67/100], Loss: 0.4428, Acc: 0.794, Sen: 0.789
+Accuracy of the model on the test images:  0.815, Loss: 0.4744, Sen: 0.845
+Epoch [68/100], Loss: 0.4602, Acc: 0.859, Sen: 0.733
+Accuracy of the model on the test images:  0.856, Loss: 0.4692, Sen: 0.883
+Epoch [69/100], Loss: 0.4571, Acc: 0.864, Sen: 0.819
+Accuracy of the model on the test images:  0.852, Loss: 0.4713, Sen: 0.881
+Epoch [70/100], Loss: 0.4486, Acc: 0.784, Sen: 0.752
+Accuracy of the model on the test images:  0.793, Loss: 0.4669, Sen: 0.837
+Epoch [71/100], Loss: 0.4646, Acc: 0.779, Sen: 0.777
+Accuracy of the model on the test images:  0.815, Loss: 0.4618, Sen: 0.841
+Epoch [72/100], Loss: 0.4590, Acc: 0.789, Sen: 0.764
+Accuracy of the model on the test images:  0.804, Loss: 0.4614, Sen: 0.821
+Epoch [73/100], Loss: 0.4428, Acc: 0.774, Sen: 0.721
+Accuracy of the model on the test images:  0.793, Loss: 0.4704, Sen: 0.864
+Epoch [78/100], Loss: 0.4436, Acc: 0.864, Sen: 0.765
+Accuracy of the model on the test images:  0.875, Loss: 0.4606, Sen: 0.921
+Epoch [75/100], Loss: 0.4405, Acc: 0.889, Sen: 0.766
+Accuracy of the model on the test images:  0.875, Loss: 0.4546, Sen: 0.842
+Epoch [76/100], Loss: 0.4403, Acc: 0.784, Sen: 0.770
+Accuracy of the model on the test images:  0.815, Loss: 0.4543, Sen: 0.883
+Epoch [77/100], Loss: 0.4442, Acc: 0.794, Sen: 0.844
+Accuracy of the model on the test images:  0.815, Loss: 0.4390, Sen: 0.886
+Epoch [74/100], Loss: 0.4549, Acc: 0.779, Sen: 0.803
+Accuracy of the model on the test images:  0.804, Loss: 0.4528, Sen: 0.857
+Epoch [79/100], Loss: 0.4283, Acc: 0.789, Sen: 0.737
+Accuracy of the model on the test images:  0.815, Loss: 0.4638, Sen: 0.920
+Epoch [80/100], Loss: 0.4488, Acc: 0.789, Sen: 0.806
+Accuracy of the model on the test images:  0.804, Loss: 0.4543, Sen: 0.886
+Epoch [81/100], Loss: 0.4430, Acc: 0.864, Sen: 0.799
+Accuracy of the model on the test images:  0.883, Loss: 0.4453, Sen: 0.841
+Epoch [82/100], Loss: 0.4443, Acc: 0.789, Sen: 0.805
+Accuracy of the model on the test images:  0.804, Loss: 0.4488, Sen: 0.894
+Epoch [83/100], Loss: 0.4378, Acc: 0.794, Sen: 0.811
+Accuracy of the model on the test images:  0.783, Loss: 0.4446, Sen: 0.798
+Epoch [84/100], Loss: 0.4443, Acc: 0.769, Sen: 0.696
+Accuracy of the model on the test images:  0.783, Loss: 0.4643, Sen: 0.889
+Epoch [85/100], Loss: 0.4353, Acc: 0.789, Sen: 0.787
+Accuracy of the model on the test images:  0.783, Loss: 0.4424, Sen: 0.833
+Epoch [86/100], Loss: 0.4377, Acc: 0.864, Sen: 0.759
+Accuracy of the model on the test images:  0.893, Loss: 0.4519, Sen: 0.913
+Epoch [87/100], Loss: 0.4325, Acc: 0.899, Sen: 0.785
+Accuracy of the model on the test images:  0.864, Loss: 0.4451, Sen: 0.833
+Epoch [88/100], Loss: 0.4324, Acc: 0.799, Sen: 0.771
+Accuracy of the model on the test images:  0.815, Loss: 0.4373, Sen: 0.865
+Epoch [89/100], Loss: 0.4501, Acc: 0.774, Sen: 0.773
+Accuracy of the model on the test images:  0.793, Loss: 0.4432, Sen: 0.822
+Epoch [90/100], Loss: 0.4400, Acc: 0.804, Sen: 0.759
+Accuracy of the model on the test images:  0.793, Loss: 0.4511, Sen: 0.864
+Epoch [91/100], Loss: 0.4246, Acc: 0.809, Sen: 0.830
+Accuracy of the model on the test images:  0.793, Loss: 0.4474, Sen: 0.817
+Epoch [92/100], Loss: 0.4405, Acc: 0.809, Sen: 0.795
+Accuracy of the model on the test images:  0.793, Loss: 0.4485, Sen: 0.818
+Epoch [93/100], Loss: 0.4337, Acc: 0.907, Sen: 0.840
+Accuracy of the model on the test images:  0.892, Loss: 0.4473, Sen: 0.848
+Epoch [94/100], Loss: 0.4170, Acc: 0.799, Sen: 0.763
+Accuracy of the model on the test images:  0.815, Loss: 0.4517, Sen: 0.932
+Epoch [95/100], Loss: 0.4307, Acc: 0.789, Sen: 0.746
+Accuracy of the model on the test images:  0.783, Loss: 0.4436, Sen: 0.833
+Epoch [96/100], Loss: 0.4435, Acc: 0.789, Sen: 0.803
+Accuracy of the model on the test images:  0.783, Loss: 0.4414, Sen: 0.873
+Epoch [97/100], Loss: 0.4284, Acc: 0.794, Sen: 0.801
+Accuracy of the model on the test images:  0.783, Loss: 0.4361, Sen: 0.875
+Epoch [98/100], Loss: 0.4306, Acc: 0.789, Sen: 0.809
+Accuracy of the model on the test images:  0.783, Loss: 0.4425, Sen: 0.873
+Epoch [99/100], Loss: 0.4315, Acc: 0.919, Sen: 0.767
+Accuracy of the model on the test images:  0.923, Loss: 0.4400, Sen: 0.905
+Epoch [100/100], Loss: 0.4338, Acc: 0.779, Sen: 0.802
+Accuracy of the model on the test images:  0.804, Loss: 0.4465, Sen: 0.905
+Epoch [1/100], Loss: 0.4235, Acc: 0.794, Sen: 0.793
+Accuracy of the model on the test images:  0.783, Loss: 0.4362, Sen: 0.902
+Epoch [2/100], Loss: 0.4090, Acc: 0.829, Sen: 0.856
+Accuracy of the model on the test images:  0.793, Loss: 0.4374, Sen: 0.909
+Epoch [3/100], Loss: 0.4303, Acc: 0.769, Sen: 0.746
+Accuracy of the model on the test images:  0.804, Loss: 0.4490, Sen: 0.886
+Epoch [4/100], Loss: 0.4240, Acc: 0.964, Sen: 0.790
+Accuracy of the model on the test images:  0.924, Loss: 0.4486, Sen: 0.913
+Epoch [5/100], Loss: 0.4394, Acc: 0.899, Sen: 0.824
+Accuracy of the model on the test images:  0.892, Loss: 0.4434, Sen: 0.909
+Epoch [6/100], Loss: 0.4118, Acc: 0.839, Sen: 0.807
+Accuracy of the model on the test images:  0.804, Loss: 0.4484, Sen: 0.864
+Epoch [7/100], Loss: 0.4290, Acc: 0.809, Sen: 0.800
+Accuracy of the model on the test images:  0.783, Loss: 0.4271, Sen: 0.898
+Epoch [8/100], Loss: 0.4190, Acc: 0.794, Sen: 0.783
+Accuracy of the model on the test images:  0.783, Loss: 0.4347, Sen: 0.811
+Epoch [9/100], Loss: 0.4110, Acc: 0.814, Sen: 0.813
+Accuracy of the model on the test images:  0.793, Loss: 0.4392, Sen: 0.811
+Epoch [10/100], Loss: 0.4100, Acc: 0799. Sen: 0.746
+Accuracy of the model on the test images:  0.793, Loss: 0.4463, Sen: 0.920
+Epoch [11/100], Loss: 0.4151, Acc: 0.929,, Sen: 0.802
+Accuracy of the model on the test images:  0.915, Loss: 0.4362, Sen: 0.860
+Epoch [12/100], Loss: 0.4113, Acc: 0.819, Sen: 0.809
+Accuracy of the model on the test images:  0.804, Loss: 0.4396, Sen: 0.917
+Epoch [13/100], Loss: 0.3955, Acc: 0.824, Sen: 0.790
+Accuracy of the model on the test images:  0.793, Loss: 0.4447, Sen: 0.856
+Epoch [14/100], Loss: 0.4056, Acc: 0.814, Sen: 0.857
+Accuracy of the model on the test images:  0.793, Loss: 0.4346, Sen: 0.841
+Epoch [15/100], Loss: 0.3894, Acc: 0.829, Sen: 0.768
+Accuracy of the model on the test images:  0.793, Loss: 0.4508, Sen: 0.886
+Epoch [16/100], Loss: 0.4030, Acc: 0.894, Sen: 0.816
+Accuracy of the model on the test images:  0.937, Loss: 0.4392, Sen: 0.861
+Epoch [17/100], Loss: 0.3947, Acc: 0.919, Sen: 0.889
+Accuracy of the model on the test images:  0.928, Loss: 0.4322, Sen: 0.853
+Epoch [18/100], Loss: 0.3961, Acc: 0.804, Sen: 0.780
+Accuracy of the model on the test images:  0.804, Loss: 0.4381, Sen: 0.855
+Epoch [19/100], Loss: 0.3997, Acc: 0.804, Sen: 0.766
+Accuracy of the model on the test images:  0.783, Loss: 0.4558, Sen: 0.917
+Epoch [20/100], Loss: 0.4134, Acc: 0.819, Sen: 0.849
+Accuracy of the model on the test images:  0.804, Loss: 0.4402, Sen: 0.905
+Epoch [21/100], Loss: 0.3977, Acc: 0.804, Sen: 0.778
+Accuracy of the model on the test images:  0.793, Loss: 0.4403, Sen: 0.886
+Epoch [22/100], Loss: 0.3987, Acc: 0.908, Sen: 0.816
+Accuracy of the model on the test images:  0.884, Loss: 0.4381, Sen: 0.928
+Epoch [23/100], Loss: 0.4071, Acc: 0.929, Sen: 0.844
+Accuracy of the model on the test images:  0.920, Loss: 0.4278, Sen: 0.855
+Epoch [24/100], Loss: 0.3975, Acc: 0.804, Sen: 0.794
+Accuracy of the model on the test images:  0.783, Loss: 0.4271, Sen: 0.890
+Epoch [25/100], Loss: 0.3896, Acc: 0.789, Sen: 0.781
+Accuracy of the model on the test images:  0.793, Loss: 0.4414, Sen: 0.864
+Epoch [26/100], Loss: 0.3980, Acc: 0.799, Sen: 0.803
+Accuracy of the model on the test images:  0.804, Loss: 0.4543, Sen: 0.928
+Epoch [27/100], Loss: 0.3755, Acc: 0.814, Sen: 0.814
+Accuracy of the model on the test images:  0.783, Loss: 0.4391, Sen: 0.896
+Epoch [28/100], Loss: 0.3756, Acc: 0.804, Sen: 0.819
+Accuracy of the model on the test images:  0.783, Loss: 0.4524, Sen: 0.897
+Epoch [29/100], Loss: 0.3935, Acc: 0.915, Sen: 0.793
+Accuracy of the model on the test images:  0.893, Loss: 0.4360, Sen: 0.875
+Epoch [30/100], Loss: 0.3991, Acc: 0.819, Sen: 0.815
+Accuracy of the model on the test images:  0.783, Loss: 0.4586, Sen: 0.888
+Epoch [31/100], Loss: 0.3768, Acc: 0.814, Sen: 0.837
+Accuracy of the model on the test images:  0.783, Loss: 0.4423, Sen: 0.902
+Epoch [32/100], Loss: 0.3919, Acc: 0.799, Sen: 0.810
+Accuracy of the model on the test images:  0.793, Loss: 0.4525, Sen: 0.879
+Epoch [33/100], Loss: 0.3749, Acc: 0.829, Sen: 0.807
+Accuracy of the model on the test images:  0.783, Loss: 0.4353, Sen: 0.858
+Epoch [34/100], Loss: 0.3722, Acc: 0.883, Sen: 0.809
+Accuracy of the model on the test images:  0.883, Loss: 0.4469, Sen: 0.873
+Epoch [35/100], Loss: 0.3665, Acc: 0.864, Sen: 0.808
+Accuracy of the model on the test images:  0.883, Loss: 0.4423, Sen: 0.881
+Epoch [36/100], Loss: 0.4127, Acc: 0.819, Sen: 0.857
+Accuracy of the model on the test images:  0.804, Loss: 0.4310, Sen: 0.873
+Epoch [37/100], Loss: 0.3770, Acc: 0.834, Sen: 0.833
+Accuracy of the model on the test images:  0.793, Loss: 0.4407, Sen: 0.817
+Epoch [38/100], Loss: 0.3652, Acc: 0.819, Sen: 0.821
+Accuracy of the model on the test images:  0.783, Loss: 0.4479, Sen: 0.879
+Epoch [39/100], Loss: 0.3865, Acc: 0.809, Sen: 0.807
+Accuracy of the model on the test images:  0.793, Loss: 0.4365, Sen: 0.893
+Epoch [40/100], Loss: 0.3599, Acc: 0.824, Sen: 0.839
+Accuracy of the model on the test images:  0.864, Loss: 0.4369, Sen: 0.902
+Epoch [41/100], Loss: 0.3649, Acc: 0.924, Sen: 0.809
+Accuracy of the model on the test images:  0.893, Loss: 0.4379, Sen: 0.864
+Epoch [42/100], Loss: 0.3700, Acc: 0.819, Sen: 0.813
+Accuracy of the model on the test images:  0.815, Loss: 0.4479, Sen: 0.904
+Epoch [43/100], Loss: 0.3606, Acc: 0.834, Sen: 0.837
+Accuracy of the model on the test images:  0.793, Loss: 0.4394, Sen: 0.871
+Epoch [44/100], Loss: 0.3787, Acc: 0.809, Sen: 0.793
+Accuracy of the model on the test images:  0.804, Loss: 0.4562, Sen: 0.921
+Epoch [45/100], Loss: 0.3607, Acc: 0.814, Sen: 0.796
+Accuracy of the model on the test images:  0.815, Loss: 0.4540, Sen: 0.905
+Epoch [46/100], Loss: 0.3783, Acc: 0.824, Sen: 0.804
+Accuracy of the model on the test images:  0.793, Loss: 0.4295, Sen: 0.871
+Epoch [47/100], Loss: 0.3622, Acc: 0.872, Sen: 0.804
+Accuracy of the model on the test images:  0.893, Loss: 0.4327, Sen: 0.885
+Epoch [48/100], Loss: 0.3525, Acc: 0.834, Sen: 0.771
+Accuracy of the model on the test images:  0.815, Loss: 0.4550, Sen: 0.942
+Epoch [49/100], Loss: 0.3424, Acc: 0.829, Sen: 0.804
+Accuracy of the model on the test images:  0.804, Loss: 0.4366, Sen: 0.924
+Epoch [50/100], Loss: 0.3579, Acc: 0.829, Sen: 0.793
+Accuracy of the model on the test images:  0.815, Loss: 0.4503, Sen: 0.944
+Epoch [51/100], Loss: 0.3540, Acc: 0.859, Sen: 0.814
+Accuracy of the model on the test images:  0.793, Loss: 0.4314, Sen: 0.894
+Epoch [52/100], Loss: 0.3572, Acc: 0.864, Sen: 0.792
+Accuracy of the model on the test images:  0.895, Loss: 0.4412, Sen: 0.944
+Epoch [53/100], Loss: 0.3500, Acc: 0.896, Sen: 0.873
+Accuracy of the model on the test images:  0.893, Loss: 0.4237, Sen: 0.902
+Epoch [54/100], Loss: 0.3455, Acc: 0.829, Sen: 0.800
+Accuracy of the model on the test images:  0.804, Loss: 0.4438, Sen: 0.928
+Epoch [55/100], Loss: 0.3455, Acc: 0.849, Sen: 0.863
+Accuracy of the model on the test images:  0.793, Loss: 0.4403, Sen: 0.883
+Epoch [56/100], Loss: 0.3292, Acc: 0.859, Sen: 0.846
+Accuracy of the model on the test images:  0.793, Loss: 0.4458, Sen: 0.920
+Epoch [57/100], Loss: 0.3505, Acc: 0.829, Sen: 0.815
+Accuracy of the model on the test images:  0.793, Loss: 0.4294, Sen: 0.864
+Epoch [58/100], Loss: 0.3317, Acc: 0.896, Sen: 0.809
+Accuracy of the model on the test images:  0.883, Loss: 0.4432, Sen: 0.877
+Epoch [59/100], Loss: 0.3436, Acc: 0.919, Sen: 0.811
+Accuracy of the model on the test images:  0.883, Loss: 0.4542, Sen: 0.865
+Epoch [60/100], Loss: 0.3535, Acc: 0.834, Sen: 0.792
+Accuracy of the model on the test images:  0.804, Loss: 0.4474, Sen: 0.889
+Epoch [61/100], Loss: 0.3429, Acc: 0.834, Sen: 0.814
+Accuracy of the model on the test images:  0.793, Loss: 0.4624, Sen: 0.905
+Epoch [62/100], Loss: 0.3274, Acc: 0.839, Sen: 0.831
+Accuracy of the model on the test images:  0.793, Loss: 0.4480, Sen: 0.883
+Epoch [63/100], Loss: 0.3234, Acc: 0.854, Sen: 0.789
+Accuracy of the model on the test images:  0.826, Loss: 0.4759, Sen: 0.960
+Epoch [64/100], Loss: 0.3419, Acc: 0.864, Sen: 0.842
+Accuracy of the model on the test images:  0.893, Loss: 0.4425, Sen: 0.912
+Epoch [65/100], Loss: 0.2997, Acc: 0.864, Sen: 0.851
+Accuracy of the model on the test images:  0.882, Loss: 0.4882, Sen: 0.985
+Epoch [66/100], Loss: 0.3418, Acc: 0.859, Sen: 0.865
+Accuracy of the model on the test images:  0.815, Loss: 0.4480, Sen: 0.955
+Epoch [67/100], Loss: 0.3321, Acc: 0.839, Sen: 0.783
+Accuracy of the model on the test images:  0.793, Loss: 0.4474, Sen: 0.909
+Epoch [68/100], Loss: 0.3213, Acc: 0.849, Sen: 0.886
+Accuracy of the model on the test images:  0.793, Loss: 0.4514, Sen: 0.858
+Epoch [69/100], Loss: 0.3064, Acc: 0.869, Sen: 0.848
+Accuracy of the model on the test images:  0.804, Loss: 0.4487, Sen: 0.856
+Epoch [70/100], Loss: 0.3336, Acc: 0.864, Sen: 0.848
+Accuracy of the model on the test images:  0.804, Loss: 0.4585, Sen: 0.862
+Epoch [71/100], Loss: 0.3015, Acc: 0.924, Sen: 0.862
+Accuracy of the model on the test images:  0.893, Loss: 0.4468, Sen: 0.909
+Epoch [72/100], Loss: 0.3066, Acc: 0.884, Sen: 0.854
+Accuracy of the model on the test images:  0.804, Loss: 0.4455, Sen: 0.848
+Epoch [73/100], Loss: 0.3101, Acc: 0.859, Sen: 0.856
+Accuracy of the model on the test images:  0.804, Loss: 0.4547, Sen: 0.938
+Epoch [74/100], Loss: 0.3034, Acc: 0.869, Sen: 0.866
+Accuracy of the model on the test images:  0.804, Loss: 0.4407, Sen: 0.886
+Epoch [75/100], Loss: 0.3101, Acc: 0.859, Sen: 0.871
+Accuracy of the model on the test images:  0.826, Loss: 0.4679, Sen: 0.964
+Epoch [76/100], Loss: 0.3096, Acc: 0.964, Sen: 0.862
+Accuracy of the model on the test images:  0.893, Loss: 0.4710, Sen: 0.906
+Epoch [77/100], Loss: 0.3023, Acc: 0.892, Sen: 0.830
+Accuracy of the model on the test images:  0.893, Loss: 0.4505, Sen: 0.875
+Epoch [78/100], Loss: 0.2882, Acc: 0.874, Sen: 0.879
+Accuracy of the model on the test images:  0.793, Loss: 0.4392, Sen: 0.913
+Epoch [79/100], Loss: 0.2888, Acc: 0.874, Sen: 0.868
+Accuracy of the model on the test images:  0.815, Loss: 0.4584, Sen: 0.966
+Epoch [80/100], Loss: 0.2812, Acc: 0.889, Sen: 0.868
+Accuracy of the model on the test images:  0.815, Loss: 0.4582, Sen: 0.975
+Epoch [81/100], Loss: 0.2841, Acc: 0.874, Sen: 0.850
+Accuracy of the model on the test images:  0.772, Loss: 0.4522, Sen: 0.837
+Epoch [82/100], Loss: 0.3015, Acc: 0.869, Sen: 0.876
+Accuracy of the model on the test images:  0.793, Loss: 0.4512, Sen: 0.909
+Epoch [83/100], Loss: 0.3136, Acc: 0.958, Sen: 0.848
+Accuracy of the model on the test images:  0.883, Loss: 0.4567, Sen: 0.932
+Epoch [84/100], Loss: 0.3068, Acc: 0.874, Sen: 0.863
+Accuracy of the model on the test images:  0.772, Loss: 0.4479, Sen: 0.899
+Epoch [85/100], Loss: 0.2859, Acc: 0.874, Sen: 0.833
+Accuracy of the model on the test images:  0.815, Loss: 0.4580, Sen: 0.960
+Epoch [86/100], Loss: 0.2816, Acc: 0.874, Sen: 0.842
+Accuracy of the model on the test images:  0.826, Loss: 0.4614, Sen: 0.977
+Epoch [87/100], Loss: 0.2909, Acc: 0.874, Sen: 0.872
+Accuracy of the model on the test images:  0.761, Loss: 0.4514, Sen: 0.818
+Epoch [88/100], Loss: 0.2575, Acc: 0.879, Sen: 0.885
+Accuracy of the model on the test images:  0.815, Loss: 0.4414, Sen: 0.837
+Epoch [89/100], Loss: 0.2814, Acc: 0.975, Sen: 0.887
+Accuracy of the model on the test images:  0.872, Loss: 0.4586, Sen: 0.935
+Epoch [90/100], Loss: 0.2647, Acc: 0.884, Sen: 0.879
+Accuracy of the model on the test images:  0.826, Loss: 0.4715, Sen: 0.989
+Epoch [91/100], Loss: 0.2739, Acc: 0.894, Sen: 0.894
+Accuracy of the model on the test images:  0.750, Loss: 0.4603, Sen: 0.833
+Epoch [92/100], Loss: 0.2579, Acc: 0.899, Sen: 0.861
+Accuracy of the model on the test images:  0.739, Loss: 0.4553, Sen: 0.804
+Epoch [93/100], Loss: 0.2634, Acc: 0.889, Sen: 0.903
+Accuracy of the model on the test images:  0.772, Loss: 0.4680, Sen: 0.819
+Epoch [94/100], Loss: 0.2974, Acc: 0.864, Sen: 0.855
+Accuracy of the model on the test images:  0.883, Loss: 0.4561, Sen: 0.871
+Epoch [95/100], Loss: 0.2608, Acc: 0.894, Sen: 0.876
+Accuracy of the model on the test images:  0.915, Loss: 0.4800, Sen: 0.962
+Epoch [96/100], Loss: 0.2743, Acc: 0.874, Sen: 0.882
+Accuracy of the model on the test images:  0.826, Loss: 0.4855, Sen: 0.937
+Epoch [97/100], Loss: 0.2611, Acc: 0.905, Sen: 0.922
+Accuracy of the model on the test images:  0.793, Loss: 0.4686, Sen: 0.886
+Epoch [98/100], Loss: 0.2547, Acc: 0.884, Sen: 0.883
+Accuracy of the model on the test images:  0.826, Loss: 0.4599, Sen: 0.960
+Epoch [99/100], Loss: 0.2596, Acc: 0.889, Sen: 0.878
+Accuracy of the model on the test images:  0.772, Loss: 0.4503, Sen: 0.833
+Epoch [100/100], Loss: 0.2331, Acc: 0.910, Sen: 0.920
+Accuracy of the model on the test images:  0.792, Loss: 0.4797, Sen: 0.939
+Epoch [1/100], Loss: 0.2522, Acc: 0.955, Sen: 0.931
+Accuracy of the model on the test images:  0.875, Loss: 0.4695, Sen: 0.891
+Epoch [2/100], Loss: 0.2617, Acc: 0.889, Sen: 0.884
+Accuracy of the model on the test images:  0.772, Loss: 0.4591, Sen: 0.848
+Epoch [3/100], Loss: 0.2375, Acc: 0.894, Sen: 0.884
+Accuracy of the model on the test images:  0.772, Loss: 0.4713, Sen: 0.849
+Epoch [4/100], Loss: 0.2804, Acc: 0.869, Sen: 0.855
+Accuracy of the model on the test images:  0.772, Loss: 0.4780, Sen: 0.879
+Epoch [5/100], Loss: 0.2590, Acc: 0.884, Sen: 0.879
+Accuracy of the model on the test images:  0.761, Loss: 0.4844, Sen: 0.833
+Epoch [6/100], Loss: 0.2247, Acc: 0.971, Sen: 0.924
+Accuracy of the model on the test images:  0.893, Loss: 0.4951, Sen: 0.902
+Epoch [7/100], Loss: 0.2211, Acc: 0.921, Sen: 0.917
+Accuracy of the model on the test images:  0.887, Loss: 0.4897, Sen: 0.912
+Epoch [8/100], Loss: 0.2367, Acc: 0.884, Sen: 0.878
+Accuracy of the model on the test images:  0.750, Loss: 0.4684, Sen: 0.758
+Epoch [9/100], Loss: 0.2500, Acc: 0.899, Sen: 0.917
+Accuracy of the model on the test images:  0.772, Loss: 0.4650, Sen: 0.821
+Epoch [10/100], Loss: 0.2175, Acc: 0.925, Sen: 0.892
+Accuracy of the model on the test images:  0.793, Loss: 0.5330, Sen: 0.955
+Epoch [11/100], Loss: 0.2450, Acc: 0.899, Sen: 0.927
+Accuracy of the model on the test images:  0.815, Loss: 0.4804, Sen: 0.962
+Epoch [12/100], Loss: 0.2495, Acc: 0.894, Sen: 0.891
+Accuracy of the model on the test images:  0.876, Loss: 0.5045, Sen: 0.986
+Epoch [13/100], Loss: 0.2280, Acc: 0.930, Sen: 0.910
+Accuracy of the model on the test images:  0.887, Loss: 0.4904, Sen: 0.939
+Epoch [14/100], Loss: 0.2124, Acc: 0.925, Sen: 0.915
+Accuracy of the model on the test images:  0.783, Loss: 0.4848, Sen: 0.873
+Epoch [15/100], Loss: 0.2251, Acc: 0.905, Sen: 0.853
+Accuracy of the model on the test images:  0.837, Loss: 0.5208, Sen: 0.989
+Epoch [16/100], Loss: 0.2293, Acc: 0.889, Sen: 0.832
+Accuracy of the model on the test images:  0.793, Loss: 0.4820, Sen: 0.902
+Epoch [17/100], Loss: 0.2087, Acc: 0.899, Sen: 0.876
+Accuracy of the model on the test images:  0.815, Loss: 0.5192, Sen: 0.968
+Epoch [18/100], Loss: 0.2245, Acc: 0.915, Sen: 0.894
+Accuracy of the model on the test images:  0.892, Loss: 0.5164, Sen: 0.975
+Epoch [19/100], Loss: 0.2067, Acc: 0.965, Sen: 0.927
+Accuracy of the model on the test images:  0.896, Loss: 0.5412, Sen: 0.978
+Epoch [20/100], Loss: 0.2266, Acc: 0.915, Sen: 0.934
+Accuracy of the model on the test images:  0.772, Loss: 0.5063, Sen: 0.883
+Epoch [21/100], Loss: 0.2080, Acc: 0.894, Sen: 0.885
+Accuracy of the model on the test images:  0.815, Loss: 0.4921, Sen: 0.932
+Epoch [22/100], Loss: 0.1927, Acc: 0.930, Sen: 0.913
+Accuracy of the model on the test images:  0.826, Loss: 0.5121, Sen: 0.955
+Epoch [23/100], Loss: 0.1939, Acc: 0.905, Sen: 0.837
+Accuracy of the model on the test images:  0.783, Loss: 0.5069, Sen: 0.862
+Epoch [24/100], Loss: 0.1844, Acc: 0.935, Sen: 0.942
+Accuracy of the model on the test images:  0.882, Loss: 0.5083, Sen: 0.899
+Epoch [25/100], Loss: 0.1774, Acc: 0.967, Sen: 0.924
+Accuracy of the model on the test images:  0.872, Loss: 0.5065, Sen: 0.862
+Epoch [26/100], Loss: 0.1849, Acc: 0.925, Sen: 0.929
+Accuracy of the model on the test images:  0.739, Loss: 0.5001, Sen: 0.721
+Epoch [27/100], Loss: 0.1893, Acc: 0.930, Sen: 0.894
+Accuracy of the model on the test images:  0.804, Loss: 0.5682, Sen: 0.977
+Epoch [28/100], Loss: 0.1782, Acc: 0.945, Sen: 0.941
+Accuracy of the model on the test images:  0.772, Loss: 0.4994, Sen: 0.818
+Epoch [29/100], Loss: 0.1858, Acc: 0.940, Sen: 0.948
+Accuracy of the model on the test images:  0.761, Loss: 0.5088, Sen: 0.818
+Epoch [35/100], Loss: 0.1617, Acc: 0.892, Sen: 0.966
+Accuracy of the model on the test images:  0.864, Loss: 0.5525, Sen: 0.962
+Epoch [31/100], Loss: 0.1888, Acc: 0.980, Sen: 0.908
+Accuracy of the model on the test images:  0.917, Loss: 0.5113, Sen: 0.857
+Epoch [32/100], Loss: 0.1835, Acc: 0.935, Sen: 0.922
+Accuracy of the model on the test images:  0.783, Loss: 0.5117, Sen: 0.860
+Epoch [33/100], Loss: 0.1781, Acc: 0.955, Sen: 0.964
+Accuracy of the model on the test images:  0.804, Loss: 0.5476, Sen: 0.960
+Epoch [34/100], Loss: 0.1752, Acc: 0.950, Sen: 0.969
+Accuracy of the model on the test images:  0.826, Loss: 0.5204, Sen: 0.962
+Epoch [30/100], Loss: 0.1863, Acc: 0.945, Sen: 0.940
+Accuracy of the model on the test images:  0.761, Loss: 0.4969, Sen: 0.788
+Epoch [36/100], Loss: 0.1671, Acc: 0.955, Sen: 0.973
+Accuracy of the model on the test images:  0.864, Loss: 0.5443, Sen: 0.962
+Epoch [37/100], Loss: 0.1721, Acc: 0.935, Sen: 0.913
+Accuracy of the model on the test images:  0.864, Loss: 0.5653, Sen: 0.969
+Epoch [38/100], Loss: 0.1675, Acc: 0.945, Sen: 0.960
+Accuracy of the model on the test images:  0.750, Loss: 0.5327, Sen: 0.833
+Epoch [39/100], Loss: 0.1834, Acc: 0.940, Sen: 0.899
+Accuracy of the model on the test images:  0.772, Loss: 0.5278, Sen: 0.841
+Epoch [40/100], Loss: 0.1600, Acc: 0.950, Sen: 0.940
+Accuracy of the model on the test images:  0.750, Loss: 0.5304, Sen: 0.803
+Epoch [41/100], Loss: 0.1518, Acc: 0.955, Sen: 0.936
+Accuracy of the model on the test images:  0.772, Loss: 0.5372, Sen: 0.885
+Epoch [42/100], Loss: 0.1434, Acc: 0.955, Sen: 0.951
+Accuracy of the model on the test images:  0.864, Loss: 0.5970, Sen: 0.929
+Epoch [43/100], Loss: 0.1858, Acc: 0.973, Sen: 0.931
+Accuracy of the model on the test images:  0.915, Loss: 0.5696, Sen: 0.967
+Epoch [44/100], Loss: 0.1654, Acc: 0.955, Sen: 0.953
+Accuracy of the model on the test images:  0.804, Loss: 0.5790, Sen: 0.958
+Epoch [45/100], Loss: 0.1684, Acc: 0.955, Sen: 0.986
+Accuracy of the model on the test images:  0.815, Loss: 0.5759, Sen: 0.935
+Epoch [46/100], Loss: 0.1488, Acc: 0.960, Sen: 0.960
+Accuracy of the model on the test images:  0.783, Loss: 0.5868, Sen: 0.947
+Epoch [47/100], Loss: 0.1528, Acc: 0.965, Sen: 0.968
+Accuracy of the model on the test images:  0.804, Loss: 0.5583, Sen: 0.879
+Epoch [49/100], Loss: 0.1414, Acc: 0.945, Sen: 0.929
+Accuracy of the model on the test images:  0.793, Loss: 0.6040, Sen: 0.937
+Epoch [48/100], Loss: 0.1337, Acc: 0.955, Sen: 0.943
+Accuracy of the model on the test images:  0.893, Loss: 0.5921, Sen: 0.909
+Epoch [50/100], Loss: 0.1433, Acc: 0.940, Sen: 0.939
+Accuracy of the model on the test images:  0.761, Loss: 0.5372, Sen: 0.837
+Epoch [1/100], Loss: 0.1544, Acc: 0.955, Sen: 0.965
+Accuracy of the model on the test images:  0.804, Loss: 0.5672, Sen: 0.924
+Epoch [2/100], Loss: 0.1123, Acc: 0.980, Sen: 0.980
+Accuracy of the model on the test images:  0.761, Loss: 0.5689, Sen: 0.825
+Epoch [3/100], Loss: 0.1526, Acc: 0.930, Sen: 0.920
+Accuracy of the model on the test images:  0.815, Loss: 0.5840, Sen: 0.947
+Epoch [4/100], Loss: 0.1272, Acc: 0.955, Sen: 0.955
+Accuracy of the model on the test images:  0.872, Loss: 0.5870, Sen: 0.883
+Epoch [5/100], Loss: 0.1319, Acc: 0.950, Sen: 0.949
+Accuracy of the model on the test images:  0.901, Loss: 0.6011, Sen: 0.905
+Epoch [6/100], Loss: 0.1323, Acc: 0.965, Sen: 0.975
+Accuracy of the model on the test images:  0.804, Loss: 0.5927, Sen: 0.940
+Epoch [7/100], Loss: 0.1403, Acc: 0.955, Sen: 0.966
+Accuracy of the model on the test images:  0.804, Loss: 0.5994, Sen: 0.909
+Epoch [8/100], Loss: 0.1319, Acc: 0.956, Sen: 0.949
+Accuracy of the model on the test images:  0.772, Loss: 0.6011, Sen: 0.906
+Epoch [9/100], Loss: 0.1236, Acc: 0.966, Sen: 0.982
+Accuracy of the model on the test images:  0.784, Loss: 0.6029, Sen: 0.840
+Epoch [10/100], Loss: 0.1203, Acc: 0.975, Sen: 0.982
+Accuracy of the model on the test images:  0.876, Loss: 0.6278, Sen: 0.990
+Epoch [11/100], Loss: 0.1203, Acc: 0.975, Sen: 0.982
+Accuracy of the model on the test images:  0.876, Loss: 0.6278, Sen: 0.990

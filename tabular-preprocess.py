@@ -1,5 +1,5 @@
 """
-    This file includes the preprocess of tabular data, for ADNI dataset,
+    This file includes the reading and preprocessing of tabular data on ADNI dataset,
     it includes:
         read data and select useful features
         visualise useful terms
