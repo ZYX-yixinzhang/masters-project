@@ -13,7 +13,16 @@ The files includes:
   
   [visualisation.py](https://github.com/ZYX-yixinzhang/masters-project/blob/main/visualisation.py): visulisation of training
   
-
+It can be run on:
+  - python 3.8+
+  - pytorch 2.1.0+cu118
+  - pandas 1.4.3
+  - ants.py 0.2.3
+  - scikit learn 1.1.1
+  - shap 0.46.0
+  - matplotlib 3.8.1
+  - numpy 1.23.5
+  
 ## Dataset
 This project used [the Alzheimer's Disease Neuralimaging Initiatives (ADNI) dataset](https://adni.loni.usc.edu/).  
 
